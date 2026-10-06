@@ -161,3 +161,7 @@ Based on `users.service.js`, generate a controller function `getAllUsers` in `us
 # 🎉 **Lab Completed!**
 
 You now have a single unified Markdown instruction file for the **Node.js Prompt Engineering Lab** using GitHub Copilot.
+
+
+
+https://github.com/akkki98/GitHubCopilot-Planninglab/blob/main/Labinstructions.md
